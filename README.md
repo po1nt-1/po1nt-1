@@ -8,4 +8,4 @@
 ![Profile views](https://gpvc.arturio.dev/po1nt-1)
 
 ![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=po1nt-1&theme=dracula&hide_border=true)
-![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=po1nt-1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula&hide_border=true)
+![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=po1nt-1&show_icons=true&include_all_commits=true&count_private=false&hide=contribs&theme=dracula&hide_border=true)
