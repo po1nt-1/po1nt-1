@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to the po1nt page </h1>
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: po1nt@pm.me
 
 <h2 align="center"> Stats </h1>
