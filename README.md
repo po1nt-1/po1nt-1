@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to the po1nt page </h1>
 
 - 🌱 I’m currently learning Go
-- 📫 How to reach me: po1nt@pm.me
+- 📫 How to reach me: po1nt.sploit@gmail.com
 
 <h2 align="center"> Stats </h1>
 
